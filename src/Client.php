@@ -61,7 +61,7 @@ class Client
     const PARCEL_TESTING_URL = 'http://demo.econt.com/e-econt/xml_parcel_import2.php';
     const PARCEL_PRODUCTION_URL = 'http://www.econt.com/e-econt/xml_parcel_import2.php';
 
-    const MEDIATOR = 'CLOUDCART';
+    const MEDIATOR = 'DREAMSHOP';
 
     public function __construct($username, $password, array $connection_options = null)
     {
